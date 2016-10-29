@@ -1,0 +1,50 @@
+//
+//  PrefixHeader.pch
+//  YGQQ
+//
+//  Created by 许亚光 on 2016/10/27.
+//  Copyright © 2016年 xuyaguang. All rights reserved.
+//
+
+
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// 屏幕尺寸
+#define kScreenW [UIScreen mainScreen].bounds.size.width
+#define kScreenH [UIScreen mainScreen].bounds.size.height
+#define kScreenBounds [UIScreen mainScreen].bounds
+
+
+
+// 颜色
+#define kClearColor [UIColor clearColor]
+#define kWhiteColor [UIColor whiteColor]
+#define kBlackColor [UIColor blackColor]
+#define kBaseTabBarColor [UIColor colorWithRed:36/255.0 green:184/255.0 blue:242/255.0 alpha:1]
+#define kBlueColor  [UIColor colorWithRed:80/255.0 green:140/255.0 blue:238/255.0 alpha:1]
+#define kLineColor [UIColor colorWithRed:204/255.0 green:204/255.0 blue:204/255.0 alpha:1]
+#define kRGBColor(r,g,b,a) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:(a)]
+#define kRandomColor [UIColor colorWithRed:((float)arc4random_uniform(256) / 255.0) green:((float)arc4random_uniform(256) / 255.0) blue:((float)arc4random_uniform(256) / 255.0) alpha:1.0]
+
+
+// 字体
+#define Font(a)     [UIFont systemFontOfSize:a]
+
+
+// 抽屉宽度
+#define kLeftDrawerW 320.0f
+
+// 框架导入
+#import <MMDrawerController.h>
+#import <MMDrawerVisualState.h>
+#import <MMDrawerBarButtonItem.h>
+#import <UIViewController+MMDrawerController.h>
+#import <Masonry.h>
+#import "UIImage+Category.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */

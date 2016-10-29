@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>friends</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00082.png</string>
+				<key>intro</key>
+				<string>我在此岸，你在彼岸。两两相望，两两相忘。 </string>
+				<key>isOnline</key>
+				<integer>1</integer>
+				<key>name</key>
+				<string>杨逸沛</string>
+				<key>vip</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00101.png</string>
+				<key>intro</key>
+				<string>在什么都不确定的年代，我们总是爱得太早、放弃得太快，轻易付出承诺，又不想等待结果。 </string>
+				<key>isOnline</key>
+				<integer>0</integer>
+				<key>name</key>
+				<string>卫星锟</string>
+				<key>vip</key>
+				<integer>6</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00013.png</string>
+				<key>intro</key>
+				<string>忘掉岁月，忘掉痛苦，忘掉你的坏，我们永不永不说再见。 </string>
+				<key>isOnline</key>
+				<integer>1</integer>
+				<key>name</key>
+				<string>许薇莲</string>
+				<key>vip</key>
+				<integer>7</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00131.png</string>
+				<key>intro</key>
+				<string>我不想做你生命的插曲，只想做你生命最完美的结局。 </string>
+				<key>isOnline</key>
+				<integer>1</integer>
+				<key>name</key>
+				<string>冯谛琛</string>
+				<key>vip</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00093.png</string>
+				<key>intro</key>
+				<string>为什么路的後面还是路？为什么故事结束还有那么多的假如？只有你能打破黑夜的企图，什么时候我的梦境能有太阳居住？ </string>
+				<key>isOnline</key>
+				<integer>1</integer>
+				<key>name</key>
+				<string>金腾濡</string>
+				<key>vip</key>
+				<integer>5</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00068.png</string>
+				<key>intro</key>
+				<string>谁动听了整个夏季的蝉鸣，谁渲染了一个秋天的凋零。下一次天亮，谁来给我春暖花开的心情。 </string>
+				<key>isOnline</key>
+				<integer>0</integer>
+				<key>name</key>
+				<string>周雅敏</string>
+				<key>vip</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00015.png</string>
+				<key>intro</key>
+				<string>低吟、浅唱，那一段不为人知的伤，没落繁华的过往是谁的歌声在回荡。 </string>
+				<key>isOnline</key>
+				<integer>1</integer>
+				<key>name</key>
+				<string>许凌琪</string>
+				<key>vip</key>
+				<integer>9</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00074.png</string>
+				<key>intro</key>
+				<string>有多少永远值得坚持，有多少永远配得上永远。 </string>
+				<key>isOnline</key>
+				<integer>0</integer>
+				<key>name</key>
+				<string>严薇呈</string>
+				<key>vip</key>
+				<integer>6</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00103.png</string>
+				<key>intro</key>
+				<string>话已说尽，情已割舍，爱已不在，后会无期。</string>
+				<key>isOnline</key>
+				<integer>1</integer>
+				<key>name</key>
+				<string>张妍妍</string>
+				<key>vip</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00153.png</string>
+				<key>intro</key>
+				<string>祝福是一泓清泉中的花开，花开四季，季季都有我芬芳淡淡的叮咛。叮咛是一世漂泊中的风雨，风雨几缕，缕缕都有我随花凋谢的心情。 </string>
+				<key>isOnline</key>
+				<integer>0</integer>
+				<key>name</key>
+				<string>周妮函</string>
+				<key>vip</key>
+				<integer>3</integer>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>headImage_00158.png</string>
+				<key>intro</key>
+				<string>话已说尽，情已割舍，爱已不在，后会无期。</string>
+				<key>isOnline</key>
+				<integer>1</integer>
+				<key>name</key>
+				<string>韩枫运</string>
+				<key>vip</key>
+				<integer>8</integer>
+			</dict>
+		</array>
+		<key>name</key>
+		<string>工作同事</string>
+		<key>online</key>
+		<integer>7</integer>
+	</dict>
+</array>
+</plist>
